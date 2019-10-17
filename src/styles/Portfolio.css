@@ -1,0 +1,7 @@
+.portfolio {
+    max-width: 800px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    flex-direction: row-reverse;
+}
