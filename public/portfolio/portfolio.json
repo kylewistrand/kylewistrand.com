@@ -3,36 +3,42 @@
        "name":"LiveBell.org",
        "headline":"A small webapp to help students and teachers around the country keep track of their days as public school schedules get more and more complicated.",
        "description":"",
-       "headerImage":"portfolio/livebell.png"
+       "headerImage":"portfolio/livebell.png",
+       "link":"https://livebell.org/"
     },
     {
        "name":"FAVR",
        "headline":"FAVR's mission is to empower people in need of assistance to ask favors of their communities.",
        "description":"FAVR aims to change the way volunteering works. Based in community instead of charity, FAVR provides low time commitment volunteer opportunities while allowing users to easily give and receive favors from one another. FAVR seeks to empower all of its users, whether they are in need of assistance or lending a helping hand. Our simple application helps facilitate a connection between members, building a system based on trust instead of paperwork. It encourages volunteers with busier lives to get involved and help out in ways that their lifestyles allow. Through FAVR, users will feel more in control of their day-to-day routines.",
-       "headerImage":"portfolio/favr.png"
+       "headerImage":"portfolio/favr.png",
+       "link":"https://ischool.uw.edu/sites/default/files/capstone/2018/3214/Capstone%20Poster_v2.pdf"
     },
     {
        "name":"Movie Browser",
        "headline":"A dynamic webapp to browse the TMDB database.",
        "description":"",
-       "headerImage":"portfolio/moviebrowser.png"
+       "headerImage":"portfolio/moviebrowser.png",
+       "link":"https://info343d-a17.github.io/challenges-kylewistrand/moviebrowser/"
     },
     {
        "name":"KyleWistrand.com",
        "headline":"A simple, lightweight personal website built in a reproducible way using templates and JSON data file.",
        "description":"",
-       "headerImage":"portfolio/kylewistrandcom.png"
+       "headerImage":"portfolio/kylewistrandcom.png",
+       "link":"https://kylewistrand.com/"
     },
     {
        "name":"D3 Viz Reproduction",
        "headline":"An exercise in creating a near-perfect reproduction of a Tableau viz using Javascript and D3.",
        "description":"",
-       "headerImage":"portfolio/simpsonsd3viz.png"
+       "headerImage":"portfolio/simpsonsd3viz.png",
+       "link":"https://github.com/kylewistrand/d3Viz2/blob/master/README.md"
     },
     {
        "name":"Python: Predicting Wages",
        "headline":"Using multivariate analysis and machine learning algorithms, we attempt to predict the wages of professional soccer players.",
        "description":"",
-       "headerImage":"portfolio/predictingwages.png"
+       "headerImage":"portfolio/predictingwages.png",
+       "link":"https://anuraagpolisetty.github.io/info370-final-project/index.html"
     }
  ]
