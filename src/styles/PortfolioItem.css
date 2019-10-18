@@ -12,6 +12,7 @@
     width: 100%;
     height: 100px;
     object-fit: cover;
+    object-position: top;
 }
 
 .portfolioItemDescription {
@@ -48,4 +49,16 @@
 .detailsButton:hover {
     color: #069;
     text-decoration: underline;
+}
+
+.placeholder {
+    border-top: 14px solid #DDD;
+}
+
+.loading button {
+    color: #CCC;
+}
+
+.loading button:hover {
+    color: #CCC;
 }

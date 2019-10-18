@@ -1,0 +1,38 @@
+[
+    {
+       "name":"LiveBell.org",
+       "headline":"A small webapp to help students and teachers around the country keep track of their days as public school schedules get more and more complicated.",
+       "description":"",
+       "headerImage":"portfolio/livebell.png"
+    },
+    {
+       "name":"FAVR",
+       "headline":"FAVR's mission is to empower people in need of assistance to ask favors of their communities.",
+       "description":"FAVR aims to change the way volunteering works. Based in community instead of charity, FAVR provides low time commitment volunteer opportunities while allowing users to easily give and receive favors from one another. FAVR seeks to empower all of its users, whether they are in need of assistance or lending a helping hand. Our simple application helps facilitate a connection between members, building a system based on trust instead of paperwork. It encourages volunteers with busier lives to get involved and help out in ways that their lifestyles allow. Through FAVR, users will feel more in control of their day-to-day routines.",
+       "headerImage":"portfolio/favr.png"
+    },
+    {
+       "name":"Movie Browser",
+       "headline":"A dynamic webapp to browse the TMDB database.",
+       "description":"",
+       "headerImage":"portfolio/moviebrowser.png"
+    },
+    {
+       "name":"KyleWistrand.com",
+       "headline":"A simple, lightweight personal website built in a reproducible way using templates and JSON data file.",
+       "description":"",
+       "headerImage":"portfolio/kylewistrandcom.png"
+    },
+    {
+       "name":"D3 Viz Reproduction",
+       "headline":"An exercise in creating a near-perfect reproduction of a Tableau viz using Javascript and D3.",
+       "description":"",
+       "headerImage":"portfolio/simpsonsd3viz.png"
+    },
+    {
+       "name":"Python: Predicting Wages",
+       "headline":"Using multivariate analysis and machine learning algorithms, we attempt to predict the wages of professional soccer players.",
+       "description":"",
+       "headerImage":"portfolio/predictingwages.png"
+    }
+ ]
