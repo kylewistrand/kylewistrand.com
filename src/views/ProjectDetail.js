@@ -17,6 +17,7 @@ class ProjectDetail extends React.Component {
             fetch('/portfolio/portfolio.json')
                 .then((data) => {
                     data.json().then((portfolioItems => {
+                        portfolioItems = portfolioItems.sort((a,b) => utils.createDate(b.date) - utils.createDate(a.date));
                         this.setState({
                             details: portfolioItems[id]
                         });
