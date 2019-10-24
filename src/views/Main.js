@@ -6,7 +6,10 @@ function Main() {
     return (
         <div>
             <header>
-                <h1>Kyle Wistrand</h1>
+                <div className="profilePictureContainer">
+                    <img src="/portfolio/profile.jpg" alt="Kyle Wistrand holding a teacup" className="profilePicture"/>
+                </div>
+                <h1 className="mainName">Kyle Wistrand</h1>
             </header>
             <main>
                 <div className="links">

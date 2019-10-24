@@ -17,7 +17,7 @@ function PortfolioItem(props) {
                 </button>
             </div>
         :
-            <Link to={"/portfolio/" + props.id} className="portfolioItem" style={{ order: props.order }}>
+            <Link to={{ pathname: '/project/' + props.id, state: props.data }} className="portfolioItem" style={{ order: props.order }}>
                 <img src={data.headerImage} alt={data.name} className="portfolioItemHeaderImage" />
                 <h4 className="portfolioItemName">
                     {data.name}

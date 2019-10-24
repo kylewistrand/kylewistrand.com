@@ -1,4 +1,5 @@
 import React from 'react';
+import * as utils from '../utils';
 import '../styles/Portfolio.css';
 
 import PortfolioItem from './PortfolioItem';
@@ -16,7 +17,7 @@ class Portfolio extends React.Component {
     }
 
     componentDidMount() {
-        fetch('portfolio/portfolio.json')
+        fetch('/portfolio/portfolio.json')
             .then((data) => {
                 data.json().then((portfolioItems => {
                     this.setState({
@@ -36,6 +37,10 @@ class Portfolio extends React.Component {
 
     render() {
         let numItems = this.state.items.length;
+        if(!this.state.loading) {
+            var projects = this.state.items.sort((a,b) => utils.createDate(b.date) - utils.createDate(a.date));
+            console.log(projects);
+        }
         return (
             <div className="portfolio">
                 {
@@ -45,7 +50,7 @@ class Portfolio extends React.Component {
                         )
                         
                     :
-                        this.state.items.map((item, i) =>
+                        projects.map((item, i) =>
                                 <PortfolioItem data={item} key={i} order={numItems-i} id={i} />
                         )
                 }
