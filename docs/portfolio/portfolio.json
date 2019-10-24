@@ -1,0 +1,74 @@
+[
+    {
+       "name":"LiveBell.org",
+       "headline":"A small webapp to help students and teachers around the country keep track of their days as public school schedules get more and more complicated.",
+       "description":"If you have children in grade school, or if you know any teachers or people who work in schools, you might know how complicated public school schedules have become. \n This app is a simle web interface that allows users to select their school and a schedule, and it will count down the time until the end of each period and passing time. \n Teachers love it as an easy way to keep track of their day or alert their students to the amount of time they have left to finish a test. Counselors love it as a way to help kids stay on time, especially for students with special needs. Students love it as a way to demistify the complicated schedules and to regain a sense of control.",
+       "date": {
+          "month": "October",
+          "year": 2019
+       },
+       "tags": ["ReactJS", "JavaScript", "AWS"],
+       "headerImage":"portfolio/livebell.png",
+       "link":"https://livebell.org/"
+    },
+    {
+       "name":"FAVR",
+       "headline":"FAVR's mission is to empower people in need of assistance to ask favors of their communities.",
+       "description":"This is a webapp that I built with a team for my capstone project in college. \n FAVR aims to change the way volunteering works. Based in community instead of charity, FAVR provides low time commitment volunteer opportunities while allowing users to easily give and receive favors from one another. FAVR seeks to empower all of its users, whether they are in need of assistance or lending a helping hand. Our simple application helps facilitate a connection between members, building a system based on trust instead of paperwork. It encourages volunteers with busier lives to get involved and help out in ways that their lifestyles allow. Through FAVR, users will feel more in control of their day-to-day routines.",
+       "date": {
+          "month": "June",
+          "year": 2018
+       },
+       "tags": ["ReactJS", "JavaScript", "Firebase"],
+       "headerImage":"portfolio/favr.png",
+       "link":"https://ischool.uw.edu/sites/default/files/capstone/2018/3214/Capstone%20Poster_v2.pdf"
+    },
+    {
+       "name":"Movie Browser",
+       "headline":"A dynamic webapp to browse the TMDB database.",
+       "description":"I built this for my front-end development course in college. \n It utilizes Bootstrap for a front-end framework but the functionality is almost completely vanilla Javascript. Other than using Handlebars for some light templating, there are no other frameworks used to control the page. \n This app served as a practice in pure Javascript, and an example of how single-page apps can be built using only vanilla Javascript, with the help of some of the new ES6 functionality.",
+       "date": {
+          "month": "December",
+          "year": 2017
+       },
+       "tags": ["JavaScript", "Bootstrap", "ES6", "HTML5", "CSS3"],
+       "headerImage":"portfolio/moviebrowser.png",
+       "link":"https://info343d-a17.github.io/challenges-kylewistrand/moviebrowser/"
+    },
+    {
+       "name":"KyleWistrand.com",
+       "headline":"A simple, lightweight personal website built in a reproducible way using templates and JSON data file.",
+       "description":"I wanted a place to showcase some of the work I have done, so I knew I needed to build myself a website. \n Taking it one step further, I wanted to build a sort of template that anyone could use for their own online portfolio. \n To achieve this, I built a small single-page webapp interface with ReactJS. All of the data for the portfolio is stored in a JSON file, which the app queries to populate the interface. This way, anyone can for this repository and just edit their copy of the JSON file to add information about their portfolio, and they'll have a ready-to-publish website! \n In the future I'd like to build a utility to generate the JSON file so that non-technical people can also use this format!",
+       "date": {
+          "month": "October",
+          "year": 2019
+       },
+       "tags": ["ReactJS", "JavaScript", "Cloudflare"],
+       "headerImage":"portfolio/kylewistrandcom.png",
+       "link":"https://github.com/kylewistrand/kylewistrand.com"
+    },
+    {
+       "name":"D3 Viz Reproduction",
+       "headline":"An exercise in creating a near-perfect reproduction of a Tableau viz using Javascript and D3.",
+       "description":"This is a chart made in D3 as a midterm assignment for my Information Visualization class (INFO 441) at the University of Washington. The assignment was to take a data visualization that was built in Tableau and rebuild it using Javascript and D3. \n The result was a near-perfect replica of the viz, including all functionality, and even improving on some features that the Tableau viz had problems with. \n See for yourself in the image above how close the reproduction is! My version is on the top.",
+       "date": {
+          "month": "May",
+          "year": 2019
+       },
+       "tags": ["D3", "JavaScript", "Tableau"],
+       "headerImage":"portfolio/simpsonsd3viz.png",
+       "link":"https://github.com/kylewistrand/d3Viz2"
+    },
+    {
+       "name":"Python: Predicting Wages",
+       "headline":"Using multivariate analysis and machine learning algorithms, we attempt to predict the wages of professional soccer players.",
+       "description":"This was a project I worked on in a team as our final project for INFO 370. \n We used Python to analyze data on FIFA soccer players to try to determine if how much a player is paid can be predicted by some statistics about their body and how they play. \n The final product was this report with our findings.",
+       "date": {
+          "month": "March",
+          "year": 2019
+       },
+       "tags": ["Python", "Machine Learning"],
+       "headerImage":"portfolio/predictingwages.png",
+       "link":"https://anuraagpolisetty.github.io/info370-final-project/index.html"
+    }
+ ]
