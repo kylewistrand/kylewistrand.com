@@ -2,7 +2,7 @@
     {
        "name":"LiveBell.org",
        "headline":"A small webapp to help students and teachers around the country keep track of their days as public school schedules get more and more complicated.",
-       "description":"If you have children in grade school, or if you know any teachers or people who work in schools, you might know how complicated public school schedules have become. \n This app is a simle web interface that allows users to select their school and a schedule, and it will count down the time until the end of each period and passing time. \n Teachers love it as an easy way to keep track of their day or alert their students to the amount of time they have left to finish a test. Counselors love it as a way to help kids stay on time, especially for students with special needs. Students love it as a way to demistify the complicated schedules and to regain a sense of control.",
+       "description":"If you have children in grade school, or if you know any teachers or people who work in schools, you might know how complicated public school schedules have become. \n This app is a simple web interface that allows users to select their school and a schedule, and it will count down the time until the end of each period and passing time. \n Teachers love it as an easy way to keep track of their day or alert their students to the amount of time they have left to finish a test. Counselors love it as a way to help kids stay on time, especially for students with special needs. Students love it as a way to demistify the complicated schedules and to regain a sense of control.",
        "date": {
           "month": "October",
           "year": 2019
