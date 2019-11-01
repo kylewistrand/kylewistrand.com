@@ -70,5 +70,38 @@
        "tags": ["Python", "Machine Learning"],
        "headerImage":"portfolio/predictingwages.png",
        "link":"https://anuraagpolisetty.github.io/info370-final-project/index.html"
+    },
+    {
+       "name":"Organization App",
+       "headline":"A webapp built as a platform for campus organizations to manage events and volunteer schedules.",
+       "description":"For campus student groups, the most common way to organize members and tasks is through Google Drive, creating spreadsheet after spreadsheet to keep track of who is doing what at any given time. This creates problems because it creates instances of duplicate data and separates an individual's responsibilities to many locations. \n When a member later tries to identify the commitments they made in a weekly meeting, finding those tasks requires them to dig through folders and spreadsheets to find what they signed up for. Furthermore, when a new member comes to a meeting, there is no uniform way to collect their contact information and ensure they can be followed-up with by a member. If this new member volunteers themself for a responsibility, the current process requires that an organization shares with this new member full access to the team’s Google Drive in order to access only one spreadsheet, even though this may compromise the privacy of other group members and other sensitive information. \n This app simplifies the process of managing an organization, its events, and individuals’ time commitments into one simple front-end webapp. \n Built on the Firebase stack, events and commitments are updated in real-time across the entire application so everyone stays on the same page.",
+       "date": {
+          "month": "December",
+          "year": 2017
+       },
+       "tags": ["ReactJS", "Firebase", "Bootstrap"],
+       "headerImage":"portfolio/organization.png"
+    },
+    {
+       "name":"Education Assessment Engine",
+       "headline":"Education Learning Intelligence Engine app (ELIE) — A database built to track K-12 student educational progress based on Howard Gardner’s Theory of Multiple Intelligences.",
+       "description":"A data-driven, web-based approach to educational instruction and assessment based on Howard Gardner’s theory of multiple intelligences to make education individualized by default, in order to minimize shame and foster a growth mindset in students K-12 and beyond. \n In today’s educational environment, every lesson is taught in the same manner for every student, focused on appealing to the same intelligence. In the US, this tends to be linguistic or logical-mathematical intelligence. Because every student has differing levels of success with each intelligence, many students, especially those who excel in visual-spatial or bodily-kinesthetic, aren’t able to follow along with the lessons and end up not retaining them. When this happens, students are unable to display proficiency, and labeled as ‘deficient’. We know that this negative labeling is dismissive of the institutional barrier of a fixed instructional style, and hurts the morale of the student. Enough of these labels over time can lead to student’s disinterest in learning and can end in them dropping out of school (Farrington, 2013). This represents a material loss of investment, considering each pupil costs the government $11,392 per year to educate (U.S. Department of Commerce, 2017, p. 20). \n By building a system to tag educational content based upon Howard Gardner’s theory of multiple intelligences, we believe that we can build an assessment engine to allow teachers to assign this content, learn from the way students respond, and then to assign content better suited to each student’s intelligences in the future. This involves building a database, along with a front-end web interface with a middle tier for processing. For tagging, we will collaborate with professionals in the iSchool to develop a machine learning model to tag content as it comes in. For the course of the project, we have already developed and built a database running on MS SQL Server. Next we need to hire students to build the front-end and middle tiers, and continue to meet with the experts we’ve been in contact with to come to a consensus on how items should be tagged. Finally, we will use material from our partners at the College of Education and feed the data into our algorithm to test our proof-of-concept. \n I participated in the design and build phases of the Phase I development of this project, which consisted of building a database to store the information needed in this application. I served as team leader to organize the design of the database and the coding of all the entities needed to make it function, including stored procedures and functions. \n Development on this product continues today, although I left the project after June 2018.",
+       "date": {
+          "month": "June",
+          "year": 2018
+       },
+       "tags": ["SQL", "Microsoft SQL Server"],
+       "headerImage":"portfolio/educationerd.png"
+    },
+    {
+       "name":"Birds and the Bees",
+       "headline":"A CMS and web interface to curate articles on sexual education topics from professionals to combat STI incidence",
+       "description":"I worked on this project on a team of 4 for DubHacks 2017 at UW. \n According to the CDC's 2016 STD Surveillance Report, STI rates are among the highest they've been in decades. More than 2 million cases of the three nationally reported STDs – chlamydia, gonorrhea, and syphilis – were reported in the United States in 2016, the highest number ever. In the same year, rates of syphilis among women increased by 36%. \n These STIs can have serious health consequences if they're left untreated. In women, these infections can lead to Pelvic Inflammatory Disease, which can in turn lead to infertility or worse, ectopic pregnancy, which can be life threatening. \n STIs and their health consequences disproportionately affects people that are already vulnerable in our communities. This includes people of color, transgender people, MSM, children and young adults, women, and people living in poverty. \n Often, the effects of societal biases compound on one another when it comes to how these groups are treated, leading to deficiencies in sexual education, societal oppression, access to healthcare, access to screening, and access to treatment. \n The most efficient way for us to intervene in this cycle is to address the issue of equal education. This is what our DubHacks project revolves around. \n Many people lack adequate access to factual, sex-positive information regarding sexual health. There does not exist a central catalog of easily accessible, easily consumable articles tailored to vulnerable members of society. \n Our method combines a chat interface with a search engine for our private catalog of professionally-curated articles regarding everything from information on STIs to information on sexual and gender identities. \n With our easy to use, friendly, and discreet interface, users can feel at ease using our system, knowing their data is never stored and they won't be tracked. What they search on the site is not saved in a user's histories either. \n We hope that this solution will combat the extremely high incidence rate of viral STIs and increase the health of the general population.",
+       "date": {
+          "month": "October",
+          "year": 2017
+       },
+       "tags": ["JavaScript", "HTML5/CSS3", "jQuery"],
+       "headerImage":"portfolio/birdsandbees.png"
     }
  ]
