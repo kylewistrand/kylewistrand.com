@@ -6,6 +6,7 @@
     flex-grow: 1;
     position: relative;
     border-radius: 5px;
+    box-shadow: rgba(46, 41, 51, 0.2) 0px 4px 6px;
 }
 
 .portfolioItemHeaderImage {

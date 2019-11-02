@@ -54,7 +54,7 @@ class ProjectDetail extends React.Component {
             
         }
         return (
-            <div className="projectDetail">
+            <div className="projectDetail content">
                 <Link to='/' className="projectDetailBack">
                     &larr; Back
                 </Link>

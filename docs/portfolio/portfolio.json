@@ -4,7 +4,7 @@
        "headline":"A small webapp to help students and teachers around the country keep track of their days as public school schedules get more and more complicated.",
        "description":"If you have children in grade school, or if you know any teachers or people who work in schools, you might know how complicated public school schedules have become. \n This app is a simple web interface that allows users to select their school and a schedule, and it will count down the time until the end of each period and passing time. \n Teachers love it as an easy way to keep track of their day or alert their students to the amount of time they have left to finish a test. Counselors love it as a way to help kids stay on time, especially for students with special needs. Students love it as a way to demistify the complicated schedules and to regain a sense of control.",
        "date": {
-          "month": "October",
+          "month": "November",
           "year": 2019
        },
        "tags": ["ReactJS", "JavaScript", "AWS"],
@@ -40,7 +40,7 @@
        "headline":"A simple, lightweight personal website built in a reproducible way using templates and JSON data file.",
        "description":"I wanted a place to showcase some of the work I have done, so I knew I needed to build myself a website. \n Taking it one step further, I wanted to build a sort of template that anyone could use for their own online portfolio. \n To achieve this, I built a small single-page webapp interface with ReactJS. All of the data for the portfolio is stored in a JSON file, which the app queries to populate the interface. This way, anyone can fork this repository and just edit their copy of the JSON file to add information about their portfolio, and they'll have a ready-to-publish website! \n In the future I'd like to build a utility to generate the JSON file so that non-technical people can also use this format!",
        "date": {
-          "month": "October",
+          "month": "November",
           "year": 2019
        },
        "tags": ["ReactJS", "JavaScript", "Cloudflare"],
